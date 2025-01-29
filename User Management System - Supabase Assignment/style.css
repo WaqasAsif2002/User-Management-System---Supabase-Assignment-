@@ -1,0 +1,18 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: cursive;
+}
+.main{
+    background-image: url(./image\ \(18\).png);
+}
+#signup-btn{
+   background-color: rgb(240, 30, 76);
+}
+#login_btn{
+    background-color: rgb(240, 30, 76);
+}
+#main-1{
+    background-color: rgb(240, 30, 76);
+}
